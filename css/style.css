@@ -975,6 +975,7 @@ i.link {
     padding: 10px 30px;
     font-size: 25px;
     color: #000;
+    margin: 0 auto;
 }
 /* #Tablet (Portrait) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -2014,6 +2015,11 @@ ul.res li a:hover,ul.res li a.active{
 	}
 	.btn {
 		margin-top: 20px;
+	}
+	.buy-btn a {
+		max-width: 180px;
+		padding: 5px 10px;
+		font-size: 18px;
 	}
 	ul.blog-list li p, .ul.blog-list1 li p {
 		width: 78.5%;
