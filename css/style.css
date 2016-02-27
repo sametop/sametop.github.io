@@ -176,23 +176,19 @@ button.btn.btn-8.btn-8b {
 .slider-left h3{
 	font-size:3.5em;
 	color:#fff;
-	background:#01A7E1;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	margin-bottom:10px;
-	width:70%;
 	font-weight:600;
 	float:none;
 }
 .slider-left h4{
 	font-size:3.5em;
 	color:#fff;
-	background:#01A7E1;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	font-weight:600;
 	margin-bottom:10px;
-	width:90%;
 }
 .slider-right{
 	width:52.5%;
@@ -204,10 +200,8 @@ p.top{
 	font-size:1.5em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
 	text-align:left;
 	padding:0px 10px;
-	width:68%;
 	margin-bottom:1px;
 }
 p.middle{
@@ -215,10 +209,8 @@ p.middle{
 	font-size:1.5em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
 	text-align:left;
 	padding:0px 10px;
-	width:64%;
 	margin-bottom:1px;
 }
 p.bottom{
@@ -226,10 +218,8 @@ p.bottom{
 	font-size:1.5em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
 	text-align:left;
 	padding:0px 10px;
-	width:56%;
 }
 .wmuSliderPagination {
 	z-index: 2;
@@ -746,8 +736,7 @@ p.copy a:hover{
 	padding:50px 0;
 }
 .banner h2{
-	color: #01A7E1;
-	background: #424146;
+	color: #FFF;
 	padding: 10px 60px 10px 20px;
 	font-size: 2em;
 	text-transform: uppercase;
@@ -1460,6 +1449,9 @@ span.yellow1 a {
 	}
 	.product-sidebar{
 		width: 45%;
+	}
+	.buy-btn {
+		margin-top: 20px;
 	}
 }
 @media (min-width: 768px) and (max-width: 991px){
